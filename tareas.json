@@ -1,0 +1,26 @@
+[
+   {
+      "Titulo": "Matemática",
+      "Estado": "terminada"
+   },
+   {
+      "Titulo": "Gramática",
+      "Estado": "pendiente"
+   },
+   {
+      "Titulo": "Informática",
+      "Estado": "en progreso"
+   },
+   {
+      "Titulo": "Química",
+      "Estado": "terminada"
+   },
+   {
+      "Titulo": "Física",
+      "Estado": "pendiente"
+   },
+   {
+      "Titulo": "Biología",
+      "Estado": "terminada"
+   }
+]
